@@ -1,6 +1,11 @@
 # Summary
 - 👋 Hi, I'm **@steveteam-kr**.  
 - 👀 I primarily use Python and JavaScript as my main languages.
+- 🔥 Passionate about building efficient, scalable solutions and collaborating on exciting projects.  
+- 📚 Constantly learning and growing in the tech space.  
+
+> 🤝 Feel free to check out my repositories and connect! 🚀
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveteam-kr)](https://github.com/anuraghazra/github-readme-stats)
 
