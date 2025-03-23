@@ -17,10 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-<br>
-![lang_html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![lang_css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### WorkSpace
-![work_pc.main](https://img.shields.io/badge/Apple-MacMini_M4-999999?style=for-the-badge&logo=apple&logoColor=white)
+![work_pc.main](https://img.shields.io/badge/Apple-MacMini_M4-999999?logo=apple&logoColor=white)
 ### Etc
-![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
