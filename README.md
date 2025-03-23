@@ -18,7 +18,7 @@
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 ### WorkSpace
-![work_pc.main](https://img.shields.io/badge/Apple-Silicon-M-999999?logo=apple&logoColor=white)
+![work_pc.main](https://img.shields.io/badge/Apple-Silicon M-999999?logo=apple&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_Ultra-0071C5?logo=intel&logoColor=white)
 ### Etc
 ![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
