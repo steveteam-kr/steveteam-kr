@@ -28,10 +28,11 @@
 ![AMD Ryzen](https://img.shields.io/badge/AMD-Ryzen-ED1C24?logo=amd&logoColor=white)
 ![Qualcomm](https://img.shields.io/badge/Qualcomm-Snapdragon-3253DC?logo=qualcomm&logoColor=white)
 ### Graphics Processing Units (GPUs)
+### Graphics Processing Units (GPUs)  
 ![Apple GPU](https://img.shields.io/badge/Apple-GPU-999999?logo=apple&logoColor=white)
-![Intel Arc Graphics](https://img.shields.io/badge/Intel-Arc-0071C5?logo=intel&logoColor=white)
+![Intel Graphics](https://img.shields.io/badge/Intel-Graphics-0071C5?logo=intel&logoColor=white)
 ![AMD Radeon Graphics](https://img.shields.io/badge/AMD-Radeon-ED1C24?logo=amd&logoColor=white)
-![NVIDIA GeForce GTX](https://img.shields.io/badge/NVIDIA-GeForce-76B900?logo=nvidia&logoColor=white)
+![NVIDIA GeForce](https://img.shields.io/badge/NVIDIA-GeForce-76B900?logo=nvidia&logoColor=white)
 ![Qualcomm Adreno](https://img.shields.io/badge/Qualcomm-Adreno-3253DC?logo=qualcomm&logoColor=white)
 ### Cloud & Networking Services
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
