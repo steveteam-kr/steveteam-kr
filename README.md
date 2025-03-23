@@ -21,5 +21,6 @@
 ![work_pc.main](https://img.shields.io/badge/Apple-Silicon-999999?logo=apple&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core-0071C5?logo=intel&logoColor=white)
 ![AMD Ryzen](https://img.shields.io/badge/AMD-Ryzen-ED1C24?logo=amd&logoColor=white)
+![Qualcomm](https://img.shields.io/badge/Qualcomm-Snapdragon-3253DC?logo=qualcomm&logoColor=white)
 ### Etc
 ![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
