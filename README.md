@@ -1,6 +1,6 @@
-# 요약
-- 👋 안녕하세요, 저는 SteveTeam-KR이에요
-- 👀 저는 Python, JavaScript 등을 주 언어로 사용하고 있어요.
+# Summary
+- 👋 Hi, I'm **@steveteam-kr**.  
+- 👀 I primarily use Python and JavaScript as my main languages.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveteam-kr)](https://github.com/anuraghazra/github-readme-stats)
 
