@@ -24,3 +24,4 @@
 ![Qualcomm](https://img.shields.io/badge/Qualcomm-Snapdragon-3253DC?logo=qualcomm&logoColor=white)
 ### Etc
 ![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
