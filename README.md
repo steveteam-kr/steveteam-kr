@@ -22,6 +22,7 @@
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ### Workstation Specifications
 ![work_pc.main](https://img.shields.io/badge/Apple-Silicon-999999?logo=apple&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core-0071C5?logo=intel&logoColor=white)
