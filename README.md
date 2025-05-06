@@ -2,7 +2,8 @@
 - 👋 Hi, I'm **@steveteam-kr**.  
 - 👀 I primarily use Python and JavaScript as my main languages.
 - 🔥 Passionate about building efficient, scalable solutions and collaborating on exciting projects.  
-- 📚 Constantly learning and growing in the tech space.  
+- 📚 Constantly learning and growing in the tech space.
+- 🌐 Based in ``Seoul, South Korea 🇰🇷`` & ``New York, USA 🇺🇸``
 
 > 🤝 Feel free to check out my repositories and connect! 🚀
 
