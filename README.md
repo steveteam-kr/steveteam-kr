@@ -24,17 +24,6 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-### Workstation Specifications
-![work_pc.main](https://img.shields.io/badge/Apple-Silicon-999999?logo=apple&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core-0071C5?logo=intel&logoColor=white)
-![AMD Ryzen](https://img.shields.io/badge/AMD-Ryzen-ED1C24?logo=amd&logoColor=white)
-![Qualcomm](https://img.shields.io/badge/Qualcomm-Snapdragon-3253DC?logo=qualcomm&logoColor=white)
-### Graphics Processing Units (GPUs)  
-[![Apple](https://img.shields.io/badge/Apple-999999?logo=apple&logoColor=white)](#)
-[![Intel](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=white)](#)
-[![AMD](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=white)](#)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white)](#)
-[![Qualcomm](https://img.shields.io/badge/Qualcomm-3253DC?logo=qualcomm&logoColor=white)](#)
 ### Cloud & Networking Services
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
